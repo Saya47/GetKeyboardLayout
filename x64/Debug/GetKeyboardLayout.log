@@ -1,0 +1,6 @@
+﻿  GetKeyboardLayout.cpp
+A:\source\git\GetKeyboardLayout\GetKeyboardLayout.cpp(11,1): warning C4005: '_UNICODE': macro redefinition
+A:\source\git\GetKeyboardLayout\GetKeyboardLayout.cpp : message : see previous definition of '_UNICODE'
+  LINK : A:\source\git\GetKeyboardLayout\x64\Debug\GetKeyboardLayout.dll not found or not built by the last incremental link; performing full link
+     Creating library A:\source\git\GetKeyboardLayout\x64\Debug\GetKeyboardLayout.lib and object A:\source\git\GetKeyboardLayout\x64\Debug\GetKeyboardLayout.exp
+  GetKeyboardLayout.vcxproj -> A:\source\git\GetKeyboardLayout\x64\Debug\GetKeyboardLayout.dll
