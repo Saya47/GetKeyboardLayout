@@ -1,2 +1,0 @@
-A:\source\git\GetKeyboardLayout\Debug\GetKeyboardLayout.pdb
-A:\source\git\GetKeyboardLayout\Debug\GetKeyboardLayout.dll
